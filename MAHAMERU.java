@@ -14,7 +14,7 @@ public class MAHAMERU {
         
         int tenaga = 12;
         String jalur = "LLLLLUrUULLDDLULLLUUU"; 
-        // -------------------------------------------------------------------------
+        
 
         int row = 5;
         int col = 11; 
